@@ -4,7 +4,7 @@ Requirements
 
 Windows with PowerShell 5.1+
 .NET WPF assemblies (included in standard Windows installs)
-WinRM or DCOM access to target machines
+DCOM/RPC access to target machines
 Administrator rights on target machines
 
 
