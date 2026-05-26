@@ -13,9 +13,16 @@ Usage
 Run netmongen.ps1
 Enter IP addresses and/or ranges in the generator window
 Click GENERATE and save the output script
+
+![Dashboard screenshot](https://github.com/Jamesling1/netmongen/blob/main/1.png)
+
 Run the generated NetworkMonitor.ps1 (or whatever you named it)
 Configure display, side, sort order, and scan interval in the setup dialog
 Click LAUNCH
+
+![Dashboard screenshot](https://github.com/Jamesling1/netmongen/blob/main/3.png)
+
+![Dashboard screenshot](https://github.com/Jamesling1/netmongen/blob/main/screen.png)
 
 How It Works
 
