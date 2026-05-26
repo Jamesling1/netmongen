@@ -35,5 +35,5 @@ Per-monitor DPI is detected at runtime using a temporary WPF window so the dashb
 Notes
 
 Scanning large IP lists at short intervals will generate significant WMI traffic. A minimum interval of 5 minutes is recommended for lists over 50 hosts.
-Target machines must have WinRM enabled or DCOM/RPC accessible on the network.
+Target machines must have DCOM/RPC accessible on the network.
 The generated script requires no additional dependencies and can be distributed and run independently of the generator.
